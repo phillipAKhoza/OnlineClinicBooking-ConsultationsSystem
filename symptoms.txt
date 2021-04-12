@@ -1,0 +1,3 @@
+ID no:1234567#Doctor Type:SURGEON#Payment Details:654321
+ID no:123456#Doctor Type:DENTIST#Payment Details:654321#SYMPTOMS:TOOTHACHE
+ID no:1234#Doctor Type:GYNE#Payment Details:4321#SYMPTOMS:CRAMPS

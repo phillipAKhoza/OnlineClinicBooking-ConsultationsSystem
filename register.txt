@@ -1,0 +1,4 @@
+Name:phillip#Surname:khoza#ID no.:987654321#Contact No:9876543#E-mail:oiuytres#Gender:MALE
+Name:phillip#Surname:khoza#ID no.:987654321#Contact No:9876543#E-mail:oiuytres#Gender:MALE
+Name:anthony#Surname:phillips#ID no.:1234567890#Contact No:12345678#E-mail:qwert#Gender:MALE
+Name:ANTHONY#Surname:PHILLIPS#ID no.:123456789#Contact No:123456#E-mail:IUYTRE#Gender:MALE
